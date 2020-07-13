@@ -19,7 +19,7 @@ tile.artisanworktables.worktable.tailor.name=Szabó Munkaasztala
 tile.artisanworktables.worktable.tanner.name=Tímár Munkaasztala
 
 # Munkaállomások
-tile.artisanworktables.workstation.basic.name=Basic Munkaállomás
+tile.artisanworktables.workstation.basic.name=Alap Munkaállomás
 tile.artisanworktables.workstation.blacksmith.name=Kovács Munkaállomása
 tile.artisanworktables.workstation.carpenter.name=Asztalos Munkaállomása
 tile.artisanworktables.workstation.chef.name=Séf Munkaállomása
@@ -36,7 +36,7 @@ tile.artisanworktables.workstation.tailor.name=Szabó Munkaállomása
 tile.artisanworktables.workstation.tanner.name=Tímár Munkaállomása
 
 # Műhelyek
-tile.artisanworktables.workshop.basic.name=Basic Műhely
+tile.artisanworktables.workshop.basic.name=Alap Műhely
 tile.artisanworktables.workshop.blacksmith.name=Kovács Műhely
 tile.artisanworktables.workshop.carpenter.name=Asztalos Műhelye
 tile.artisanworktables.workshop.chef.name=Séf Műhelye
@@ -67,16 +67,16 @@ item.artisanworktables.artisans.driver.name=Kézműves %s Vezető
 item.artisanworktables.artisans.spanner.name=Kézműves %s Csavarkulcs
 item.artisanworktables.artisans.gemcutter.name=Kézműves %s Drágakő Vágó
 item.artisanworktables.artisans.pliers.name=Kézműves %s Fogó
-item.artisanworktables.artisans.athame.name=Kézműves %s Athame
-item.artisanworktables.artisans.grimoire.name=Kézműves %s-Bound Grimoire
+item.artisanworktables.artisans.athame.name=Kézműves %s Tőr
+item.artisanworktables.artisans.grimoire.name=Kézműves %s-Kötött Bűvészkönyv
 item.artisanworktables.artisans.chisel.name=Kézműves %s Véső
 item.artisanworktables.artisans.trowel.name=Kézműves %s Vakolókanál
-item.artisanworktables.artisans.compass.name=Kézműves %s Iránytű
+item.artisanworktables.artisans.compass.name=Kézműves %s Tájoló
 item.artisanworktables.artisans.quill.name=Kézműves %s Írótoll
 item.artisanworktables.artisans.needle.name=Kézműves %s Tű
 item.artisanworktables.artisans.shears.name=Kézműves %s Nyíróolló
 item.artisanworktables.artisans.lens.name=Kézműves %s Lencse
-item.artisanworktables.artisans.sifter.name=Kézműves %s Szita
+item.artisanworktables.artisans.sifter.name=Kézműves %s Rosta
 item.artisanworktables.artisans.cutting.board.name=Kézműves %s Vágódeszka
 item.artisanworktables.artisans.pan.name=Kézműves %s Serpenyő
 item.artisanworktables.artisans.mortar.name=Kézműves %s Mozsár
@@ -86,7 +86,7 @@ item.artisanworktables.artisans.groover.name=Kézműves %s Karcoló
 item.artisanworktables.artisans.carver.name=Kézműves %s Fafaragó
 item.artisanworktables.artisans.razor.name=Kézműves %s Penge
 item.artisanworktables.artisans.hatchet.name=Kézműves %s Szekerce
-item.artisanworktables.artisans.file.name=Kézműves %s Akta
+item.artisanworktables.artisans.file.name=Kézműves %s Reszelő
 item.artisanworktables.artisans.pencil.name=Kézműves %s Ceruza
 item.artisanworktables.artisans.tsquare.name=Kézműves %s Fejes Vonalzó
 item.artisanworktables.artisans.solderer.name=Kézműves %s Forrasztó
@@ -111,15 +111,15 @@ gui.artisanworktables.tooltip.button.export.shapeless=Export Formátlan
 gui.artisanworktables.tooltip.button.clear.table=Mindent Töröl
 gui.artisanworktables.tooltip.button.creative.disabled=Asztal Mód: Túlélő
 gui.artisanworktables.tooltip.button.creative.enabled=Asztal Mód: Kreatív
-gui.artisanworktables.tooltip.button.oredict.linked=ÉrcSzótár Mód: Öszekapcsolt
-gui.artisanworktables.tooltip.button.oredict.unlinked=ÉrcSzótár Mód: Nem összekapcsolt
+gui.artisanworktables.tooltip.button.oredict.linked=Érctár Mód: Öszekapcsolt
+gui.artisanworktables.tooltip.button.oredict.unlinked=Érctár Mód: Nem összekapcsolt
 gui.artisanworktables.tooltip.button.locked.disabled=Cella Mód: Nyitott
 gui.artisanworktables.tooltip.button.locked.enabled=Cella Mód: Lezárt
 gui.artisanworktables.tooltip.automator.power=%d / %d RF
 
 # Ötlet
-item.artisanworktables.tooltip.durability=Durability: %d / %d
-item.artisanworktables.tooltip.creative.table.oredict.header=ÉrcSzótár: %s(SHIFT + BAL-KLIKK)
+item.artisanworktables.tooltip.durability=Tartósság: %d / %d
+item.artisanworktables.tooltip.creative.table.oredict.header=Érctár: %s(SHIFT + BAL-KLIKK)
 item.artisanworktables.tooltip.creative.table.oredict.none=-semmi-
 
 # Chat
